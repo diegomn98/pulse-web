@@ -1,6 +1,6 @@
 # PULSE · Marca y tokens
 
-Valores exactos del diseño final de la web (Claude Design). Los nombres de token son una propuesta: al implementarlos, adáptalos a las convenciones de `@dmaster/ui` sin cambiar los valores. Si una pantalla necesita un valor que no está aquí, se toma de su captura en `../pulse-imagenes` y se añade a este archivo.
+Valores exactos del diseño final de la web. Los nombres de token son una propuesta: al implementarlos, adáptalos a las convenciones de `@dmaster/ui` sin cambiar los valores. Si una pantalla necesita un valor que no está aquí, se toma de su captura en `../pulse-imagenes` y se añade a este archivo.
 
 ## Colores por tipo
 
